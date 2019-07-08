@@ -5,7 +5,6 @@ public class Ramachandra {
 		System.out.println("Ramachandra");
 		System.out.println("Syastem");
 		System.out.println("Syastem2");
-		System.out.println("Syastem3");
 	}
 
 }
